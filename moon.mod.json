@@ -1,0 +1,9 @@
+{
+  "name": "mizchi/whenword-mbt",
+  "version": "0.1.0",
+  "readme": "README.md",
+  "repository": "https://github.com/mizchi/whenword-mbt",
+  "license": "MIT",
+  "keywords": ["time", "date", "formatting", "parsing", "relative-time"],
+  "description": "A relative time formatting library for MoonBit, following the whenwords specification"
+}
