@@ -114,8 +114,8 @@ fn pluralize(count : Int64, unit : String) -> String {
 ///|
 /// Options for duration formatting
 pub(all) struct DurationOptions {
-  pub compact : Bool // Use compact format like "2h 30m"
-  pub max_units : Int // Maximum number of units to display (default: 2)
+  compact : Bool // Use compact format like "2h 30m"
+  max_units : Int // Maximum number of units to display (default: 2)
 }
 
 ///|
